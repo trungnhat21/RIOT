@@ -1,0 +1,97 @@
+.dau{
+    text-align: center;
+    display: block;
+    background-color: rgb(153, 122, 122);
+    font-size:2rem;
+    margin-left: 20.3%;
+    width: 80%;
+    color:orange;
+    max-width: 80%;
+    margin-top: -10.5%;
+    position: absolute;
+    height: 155px;
+    border-radius:20px;
+}
+/* .dau1{
+    
+} */
+.logo{
+    border-radius:20px;
+}
+.dau li {
+    display: inline-block;
+    margin-right: 8%;
+    color:  #FF5733;
+    font-size: 2rem;
+}
+.anh{
+    display: block;
+    position: absolute;
+    margin-left: 20%;
+    margin-right: 10%;
+}
+.anh1{
+    display: block;
+    position: absolute;
+    margin-left: 53.3%;
+    margin-right: 10%;
+}
+.anh3{
+    display: block;
+    margin-top: 20%;
+    position: absolute;
+    margin-left: 20%;
+    margin-right: 10%;
+}
+.anh2{
+    display: block;
+    margin-top:20%;
+    position: absolute;
+    margin-left: 53.3%;
+    margin-right: 10%;
+}
+.anh4{
+    width:20%;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 1%;
+}
+.anh5{
+    width:20%;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 0%;
+}
+.vb{
+    font-size: 1.5rem;
+    width: 20%;
+    text-align: center;
+    color: midnightblue;
+    margin-top: 0%;
+    font-weight: bold;
+}
+.vb1{
+    width: 21%;
+    text-align: center;
+    margin: 0%;
+    color: red;
+}
+.vb2{
+    margin-top: -55%;
+    margin-left: 92%;
+    width: 35%;
+    text-align: justify;
+    color: purple;
+    font-size: 1.4rem;
+}
+.vb3{
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 3%;
+}
+header{
+    background-color: rgb(164, 187, 231);
+    height: 880px;
+    color: darkslategray;
+}

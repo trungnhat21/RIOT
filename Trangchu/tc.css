@@ -1,0 +1,98 @@
+.video{
+    display: flex;
+    position: relative;
+    margin-top: 0.1%;
+}
+.logo{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    top: 10px;
+    left: 10px;
+    border-radius: 20px;
+}
+.tieude{
+    text-align: center;
+    font-size: 5rem;
+    background-color:rgb(236, 10, 10);
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+.tieudiem{
+    font-size: 3rem;
+    color: wheat;
+}
+.bgr{
+    background-color: black;
+    margin-top: -2%;
+    height: 550px;
+}
+.tuong{
+    width: 23%;
+    max-width: 23%;
+    border-radius: 20px;
+}
+.tuong1{
+    width: 23%;
+    max-width: 23%;
+    border-radius: 20px;
+    margin-left: 50%;
+    margin-top: -5%;
+}
+.tuong2{
+    width: 23%;
+    max-width: 23%;
+    border-radius: 20px;
+    margin-top: 10%;
+}
+.tuong3{
+    width: 23%;
+    max-width: 23%;
+    border-radius: 20px;
+    margin-left: 26.8%;
+}
+.akali{
+    font-size: 3rem;
+    margin-left: 25%;
+    margin-top: -12%;
+}
+.akali1{
+    font-size: 1.5rem;
+    margin-left: 25%;
+    color: blue;
+    margin-top: -25%;
+}
+.jax{
+    font-size: 3rem;
+    margin-left: 75%;
+    margin-top: -12%;
+}
+.jax1{
+    font-size: 1.5rem;
+    margin-left: 75%;
+    color: orangered;
+    margin-top: -8.5%;
+}
+.leesin{
+    font-size: 3rem;
+    margin-left: 25%;
+    margin-top: 4%;
+}
+.leesin1{
+    font-size: 1.5rem;
+    margin-left: 25%;
+    margin-top: -1%;
+    color: burlywood;
+}
+.malphite{
+    font-size: 3rem;
+    margin-left: 75%;
+    margin-top: -12.5%;
+}
+.malphite1{
+    font-size: 1.5rem;
+    margin-left: 75%;
+    margin-top: -1%;
+    color: brown;
+}
