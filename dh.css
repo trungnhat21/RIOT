@@ -95,3 +95,116 @@ header{
     height: 880px;
     color: darkslategray;
 }
+body {
+    background-color: rgb(164, 187, 231);
+}
+.xoa{
+    text-decoration: none;
+}
+@media (max-width: 415px) {
+    .dau{
+        text-align: center;
+        display: block;
+        background-color: rgb(153, 122, 122);
+        font-size:1rem;
+        margin-left: 20.5%;
+        width: 80%;
+        color:orange;
+        max-width: 80%;
+        margin-top: -25.5%;
+        position: absolute; 
+        height: 100px;
+        border-radius:20px;
+    }
+    .logo{
+        border-radius:20px;
+        width: 21%;
+        height: 100px;
+    }
+    .dau li {
+        color:  #FF5733;
+        font-size: 0.5rem;
+        text-align: center;
+        margin-right: 16%;
+    }
+    .anh{
+        display: block;
+        position: absolute;
+        margin-left: 20%;
+        margin-right: 10%;
+        width: 180%;
+    }
+    .anh1{
+        display: block;
+        position: absolute;
+        margin-left: 58.3%;
+        width: 180%;
+    }
+    .anh3{
+        display: block;
+        margin-top: 25%;
+        position: absolute;
+        margin-left: 20%;
+        width: 180%;
+    }
+    .anh2{
+        display: block;
+        margin-top:25%;
+        position: absolute;
+        margin-left: 58.3%;
+        margin-right: 10%;
+        width: 180%;
+    }
+    .vb1{
+        width: 21%;
+        text-align: center;
+        margin: 0%;
+        color: red;
+        font-size: 0.5rem;
+    }
+    .anh4{
+        width:20%;
+        height: 150px;
+        border-radius: 10px;
+        margin-top: 1%;
+        height: 60px;
+    }
+    .vb{
+        font-size: 0.4rem;
+        width: 20%;
+        text-align: center;
+        color: midnightblue;
+        margin-top: -1%;
+        font-weight: bold;
+    }
+    .anh5{
+        width:20%;
+        height: 60px;
+        border-radius: 10px;
+        margin-top: 2%;
+    }
+    .vb3{
+        text-align: center;
+        width: 80%;
+        margin-left: 12%;
+        margin-top: 15%;
+        font-size: 1rem;
+    }
+    .vb2{
+        margin-top: 30%;
+        margin-left: 0;
+        width: 55%;
+        text-align: justify;
+        color: purple;
+        font-size: 0.82rem;
+        margin-left: -32%;
+
+    }
+    header{
+        height: 430px;
+        color: darkslategray;
+    }
+    body {
+        background-color: rgb(164, 187, 231);
+    }
+}
