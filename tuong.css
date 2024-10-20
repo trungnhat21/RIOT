@@ -1,0 +1,52 @@
+.de{
+    text-align: center;
+    font-size: 3rem;
+}
+.de1{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: -3%;
+}
+.zoom{
+    padding-right: 2%;
+    transition: transform 0.3s ease; 
+    width: 22.5%;
+    max-width: 100%;
+    margin-top: 2%;
+}.zoom1{
+    padding-right: 2%;
+    transition: transform 0.3s ease; 
+    width: 22.5%;
+    max-width: 100%;
+    margin-top: 2%;
+    height: 374px;
+}
+.zoom:hover {
+    transform: scale(1.1);
+}
+.zoom1:hover {
+    transform: scale(1.1);
+}
+.than{
+    text-align: center;
+    margin-left: 2%;
+}
+.icon{
+    font-size: 100px;
+    padding-right: 5%;
+    text-decoration: none;
+    color: azure;
+}
+.icon1{
+    text-align: center;
+    background-color: black;
+    padding-top: 5%;
+    width: 95%;
+    margin-left: 2.5%;
+    height: 250px;
+}
+.vb{
+    color: azure;
+    font-size: 2rem;
+    text-align: center;
+}
